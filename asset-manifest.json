@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/crispy-engine/static/css/main.0f737223.chunk.css",
-    "main.js": "/crispy-engine/static/js/main.0fb756b8.chunk.js",
-    "main.js.map": "/crispy-engine/static/js/main.0fb756b8.chunk.js.map",
+    "main.css": "/crispy-engine/static/css/main.b28cbf22.chunk.css",
+    "main.js": "/crispy-engine/static/js/main.44bb1d76.chunk.js",
+    "main.js.map": "/crispy-engine/static/js/main.44bb1d76.chunk.js.map",
     "runtime-main.js": "/crispy-engine/static/js/runtime-main.82a7ae6e.js",
     "runtime-main.js.map": "/crispy-engine/static/js/runtime-main.82a7ae6e.js.map",
     "static/js/2.f9903562.chunk.js": "/crispy-engine/static/js/2.f9903562.chunk.js",
     "static/js/2.f9903562.chunk.js.map": "/crispy-engine/static/js/2.f9903562.chunk.js.map",
     "index.html": "/crispy-engine/index.html",
-    "precache-manifest.5d6b9e14b8e5a118b1a12cfdfd65f5d3.js": "/crispy-engine/precache-manifest.5d6b9e14b8e5a118b1a12cfdfd65f5d3.js",
+    "precache-manifest.94ac90900300eec59d3a8ab132534126.js": "/crispy-engine/precache-manifest.94ac90900300eec59d3a8ab132534126.js",
     "service-worker.js": "/crispy-engine/service-worker.js",
-    "static/css/main.0f737223.chunk.css.map": "/crispy-engine/static/css/main.0f737223.chunk.css.map",
+    "static/css/main.b28cbf22.chunk.css.map": "/crispy-engine/static/css/main.b28cbf22.chunk.css.map",
     "static/js/2.f9903562.chunk.js.LICENSE.txt": "/crispy-engine/static/js/2.f9903562.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.82a7ae6e.js",
     "static/js/2.f9903562.chunk.js",
-    "static/css/main.0f737223.chunk.css",
-    "static/js/main.0fb756b8.chunk.js"
+    "static/css/main.b28cbf22.chunk.css",
+    "static/js/main.44bb1d76.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99a6a5dd56624b0b5785977bda392d4f",
+    "revision": "1b56e670fcd04d95bd3297aa2c059042",
     "url": "/crispy-engine/index.html"
   },
   {
-    "revision": "7a2d55a98ac830e514e8",
-    "url": "/crispy-engine/static/css/main.0f737223.chunk.css"
+    "revision": "b8bf3eee1c2ddf0ff05c",
+    "url": "/crispy-engine/static/css/main.b28cbf22.chunk.css"
   },
   {
     "revision": "3a7a5df1b5b24ec9282b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crispy-engine/static/js/2.f9903562.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a2d55a98ac830e514e8",
-    "url": "/crispy-engine/static/js/main.0fb756b8.chunk.js"
+    "revision": "b8bf3eee1c2ddf0ff05c",
+    "url": "/crispy-engine/static/js/main.44bb1d76.chunk.js"
   },
   {
     "revision": "ec9ff2cb14abed7411be",
