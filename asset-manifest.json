@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gh-pages/static/css/main.0f737223.chunk.css",
-    "main.js": "/gh-pages/static/js/main.17c80143.chunk.js",
-    "main.js.map": "/gh-pages/static/js/main.17c80143.chunk.js.map",
-    "runtime-main.js": "/gh-pages/static/js/runtime-main.49473543.js",
-    "runtime-main.js.map": "/gh-pages/static/js/runtime-main.49473543.js.map",
-    "static/js/2.f9903562.chunk.js": "/gh-pages/static/js/2.f9903562.chunk.js",
-    "static/js/2.f9903562.chunk.js.map": "/gh-pages/static/js/2.f9903562.chunk.js.map",
-    "index.html": "/gh-pages/index.html",
-    "precache-manifest.32066bc3bd072369eb2597ecbd3c267d.js": "/gh-pages/precache-manifest.32066bc3bd072369eb2597ecbd3c267d.js",
-    "service-worker.js": "/gh-pages/service-worker.js",
-    "static/css/main.0f737223.chunk.css.map": "/gh-pages/static/css/main.0f737223.chunk.css.map",
-    "static/js/2.f9903562.chunk.js.LICENSE.txt": "/gh-pages/static/js/2.f9903562.chunk.js.LICENSE.txt"
+    "main.css": "/crispy-engine/static/css/main.0f737223.chunk.css",
+    "main.js": "/crispy-engine/static/js/main.0fb756b8.chunk.js",
+    "main.js.map": "/crispy-engine/static/js/main.0fb756b8.chunk.js.map",
+    "runtime-main.js": "/crispy-engine/static/js/runtime-main.82a7ae6e.js",
+    "runtime-main.js.map": "/crispy-engine/static/js/runtime-main.82a7ae6e.js.map",
+    "static/js/2.f9903562.chunk.js": "/crispy-engine/static/js/2.f9903562.chunk.js",
+    "static/js/2.f9903562.chunk.js.map": "/crispy-engine/static/js/2.f9903562.chunk.js.map",
+    "index.html": "/crispy-engine/index.html",
+    "precache-manifest.5d6b9e14b8e5a118b1a12cfdfd65f5d3.js": "/crispy-engine/precache-manifest.5d6b9e14b8e5a118b1a12cfdfd65f5d3.js",
+    "service-worker.js": "/crispy-engine/service-worker.js",
+    "static/css/main.0f737223.chunk.css.map": "/crispy-engine/static/css/main.0f737223.chunk.css.map",
+    "static/js/2.f9903562.chunk.js.LICENSE.txt": "/crispy-engine/static/js/2.f9903562.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.49473543.js",
+    "static/js/runtime-main.82a7ae6e.js",
     "static/js/2.f9903562.chunk.js",
     "static/css/main.0f737223.chunk.css",
-    "static/js/main.17c80143.chunk.js"
+    "static/js/main.0fb756b8.chunk.js"
   ]
 }
